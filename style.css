@@ -1,0 +1,9 @@
+#box {
+  border: #4c78ff solid 1px;
+  display: none;
+  pointer-events: none;
+}
+
+[contenteditable]:focus {
+  outline: 0px solid transparent;
+}
